@@ -19,6 +19,18 @@
 
 ※英語での記載のため、ブラウザの翻訳機能が使えます。但し翻訳した状態で、上記の入力補完のアイコンなどをクリックすると、翻訳したまま入力されてしまいますので注意してください。
 
+
+----
+## リンク集
+- パートナー向けの Microsoft 365 Copilot デモの可能性
+    - クリックスルーSMB デモ： https://aka.ms/CopilotSMBClickThruDemos 
+    - 自分ででもをビルドする： https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FCopilot-Partner-Demo-Kit.zip&download=1
+    - 没入型体験：https://cloudpartners.transform.microsoft.com/partner-gtm/csp/copilot?tab=go-to-market&sec=prove-sell
+- Microsoft 365 Copilot Partner Demo Kit
+    - https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FCopilot-Partner-Demo-Kit.zip&download=1
+    
+
+
 ----
 ## ラボのヒント・迷いそうなところのガイド
 
