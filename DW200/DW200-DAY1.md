@@ -28,7 +28,9 @@
     - 没入型体験：https://cloudpartners.transform.microsoft.com/partner-gtm/csp/copilot?tab=go-to-market&sec=prove-sell
 - Microsoft 365 Copilot Partner Demo Kit
     - https://cloudpartners.transform.microsoft.com/download?assetname=assets%2FCopilot-Partner-Demo-Kit.zip&download=1
-    
+
+- その他
+
 
 
 ----

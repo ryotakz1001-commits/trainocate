@@ -22,6 +22,22 @@
 ※.envファイルにおいて、AI Foundryのプロジェクト接続文字列を入れる箇所がありますが、""で括っていないとエラーになるケースがあるとのことなので、ガイドをよく見て「""」で括られているものは真似するようにしてください。
 
 ----
+## リンク集
+- Copilot Studio 実装ガイド QR：
+![](2025-10-08-08-22-18.png)
+
+- Copilot アーキテクチャ設計 役立つリソース
+    - https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-quotas
+    - https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio
+    - https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/bizapps/Power-Platform-Licensing-Guide-August-2025-JA-JP.pdf
+
+- Application Insights を使用したテレメトリのキャプチャ
+    - https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-bot-framework-composer-capture-telemetry?tabs=webApp
+
+- エージェント対話型音声応答の概要
+    - https://learn.microsoft.com/en-us/microsoft-copilot-studio/voice-overview
+
+----
 ## ラボのヒント・迷いそうなところのガイド
 
 ### 演習 1: AI プロジェクトをセットアップし、VS Code からチャット補完を実行する 
