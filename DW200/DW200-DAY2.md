@@ -37,6 +37,8 @@
 - エージェント対話型音声応答の概要
     - https://learn.microsoft.com/en-us/microsoft-copilot-studio/voice-overview
 
+- D365との連携などのCopilotガイド
+    - https://learn.microsoft.com/en-us/microsoft-copilot-studio/
 ----
 ## ラボのヒント・迷いそうなところのガイド
 
