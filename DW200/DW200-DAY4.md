@@ -20,7 +20,25 @@
 ※あくまでキーボードを介しますので、入力完了までは他の場所をクリックしたりしないようにしてください。
 
 ※英語での記載のため、ブラウザの翻訳機能が使えます。但し翻訳した状態で、上記の入力補完のアイコンなどをクリックすると、翻訳したまま入力されてしまいますので注意してください。
+----
+## リンク集
+- Azure AI Foundry Hubs
+    - https://learn.microsoft.com/en-us/azure/ai-studio/concepts/architecture
 
+- Azure AI Content Safety 
+    - https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/
+
+- AI アプリの認証
+    - https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin
+
+- MSAL によるユーザ認証
+    - https://www.youtube.com/watch?v=vMccS3u16WU
+
+- VNet 内に RAG チャットをデプロイするサンプル
+    - https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/deploy_private.md
+
+- Azure network security groups の概要: 
+    - https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups
 ----
 ## ラボのヒント・迷いそうなところのガイド
 ### 演習1: フロー開発のライフサイクルを理解する

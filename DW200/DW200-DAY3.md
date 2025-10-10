@@ -22,6 +22,35 @@
 ※英語での記載のため、ブラウザの翻訳機能が使えます。但し翻訳した状態で、上記の入力補完のアイコンなどをクリックすると、翻訳したまま入力されてしまいますので注意してください。
 
 ----
+## リンク集
+- 合理化されたRAGデータパイプライン
+    - 固定サイズチャンキング(https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit)
+    - 文書レイアウト出力チャンク(https://aka.ms/DocumentIntelligenceLayout-skill)
+
+- エージェントおよびマルチ・エージェントアプリケーション
+    - https://microsoft.github.io/autogen/stable/user-guide/core-user-guide/core-concepts/agent-and-multi-agent-application.html
+
+- Semantic Kernel コンポーネント
+    - https://learn.microsoft.com/en-us/semantic-kernel/concepts/semantic-kernel-components?pivots=programming-language-csharp
+
+- AutoGen
+    - https://www.microsoft.com/en-us/research/project/autogen/
+    - AutoGenの安定バージョン：
+        - https://microsoft.github.io/autogen/stable/ 
+    - Core ユーザーガイド
+        - https://microsoft.github.io/autogen/stable/user-guide/core-user-guide/index.html 
+    - Magentic-One
+        - https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/magentic-one.html
+
+
+- AI Foundry Agent Service における MultiAgent サンプル
+    - https://github.com/kinfey/MultiAIAgent/ 
+
+- Automated Multi Agent Chat
+    - https://microsoft.github.io/autogen/0.2/docs/Examples/#automated-multi-agent-chat
+    - https://microsoft.github.io/autogen/0.2/docs/Use-Cases/agent_chat
+
+----
 ## ラボのヒント・迷いそうなところのガイド
 
 ### 演習 1:

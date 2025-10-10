@@ -39,6 +39,9 @@
 
 - D365との連携などのCopilotガイド
     - https://learn.microsoft.com/en-us/microsoft-copilot-studio/
+
+- OpenAI の トークナイザー
+    - https://platform.openai.com/tokenizer
 ----
 ## ラボのヒント・迷いそうなところのガイド
 
